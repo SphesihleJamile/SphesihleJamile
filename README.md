@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SphesihleJamile
 - 👀 I’m interested in Software Development/Engineering and Web Development
-- 🌱 I’m currently doing a degree in BSc Computer Science/IT, and learning Android Studio and React Native on the side
+- 🌱 Finally, I completed my undergraduate degree in BSc Computer Science / IT in 2021, and graduated on the 21st of May, 2022. I am currently doing my honors in BCom Honours Information Systems & Technology which will help me further my knowledge in the technology industry.
 - 📫 How to reach me : jamilesphesihle99@gmail.com (1), sketch.privatebusiness@gmail.com (2), Calls - +27 68 5022 681, WhatsApp - +27 73 482 7695 
 
 <!---
