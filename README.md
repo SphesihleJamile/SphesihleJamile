@@ -27,4 +27,8 @@ I am Sphesihle Jamile a.k.a Sketch from Durban South Africa. I am a full stack d
 <img align="left" alt="Java" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
 
---
+#
+
+## Stats
+
+![Sketch's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SphesihleJamile&show_icons=true&theme=gruvbox)
