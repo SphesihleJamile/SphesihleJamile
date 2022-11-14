@@ -32,3 +32,8 @@ I am Sphesihle Jamile a.k.a Sketch from Durban South Africa. I am a full stack d
 ## Stats
 
 ![Sketch's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SphesihleJamile&show_icons=true&theme=gruvbox)
+
+
+# MY STORY 🛣️
+--
+I am
