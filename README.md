@@ -3,6 +3,7 @@
 **`Digital Craftsman (FULL STACK DEVELOPER)`**
 
 *WELCOME*
+
 I am Sphesihle Jamile a.k.a Sketch from Durban South Africa. I am a full stack developer building my version of the digital world one step at a time. All my projects are completely authentic, and they're built from the ground up, from planning and designing all the way to solving real-life problems with code. My projects are filled with creativity and of course a lot of computer science fundamentals. Don't be afraid, go to my repositories, select one that you like, and start there 😊
 
 ---
