@@ -34,6 +34,6 @@ I am Sphesihle Jamile a.k.a Sketch from Durban South Africa. I am a full stack d
 ![Sketch's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SphesihleJamile&show_icons=true&theme=gruvbox)
 
 
-# MY STORY 🛣️
+## MY STORY 🛣️
 --
-I am
+I grew up in a small township called Clermont located around Durban, South Africa. In my neighbourhood, technology was not a thing. The only thing that we knew was how to play sports, games, and watch movies. I was isolated from the world and raised on strict principles. When i first descovered the technology industry in 2017, I was amazed at the infinite opporunities that were available. The numerous things one could do, I was in total awe. I then signed up to do my Computer Science degree in 2018 which completed in 2021, and then moved to do my honours degree at UKZN in 2022. I believe that I have found my purpose in life, and that is to serve the world and create technological solutions using innovative thinking, designing, and problem solving skills. With my passion and hunger to learn more, i can leave a mark on the world and hopefully leave it a better place than i found it. I will fulfill my dream 1 solution at a time. So, give me a problem, and let me start solving.....
